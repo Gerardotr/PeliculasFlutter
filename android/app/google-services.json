@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960611632031",
+    "firebase_url": "https://pruebatecnica-dfb3d-default-rtdb.firebaseio.com",
+    "project_id": "pruebatecnica-dfb3d",
+    "storage_bucket": "pruebatecnica-dfb3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960611632031:android:c02a9755e25fdbd71933aa",
+        "android_client_info": {
+          "package_name": "com.example.peliculas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960611632031-on9li85d9gjghpcj6i39pkls35cq45na.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peliculas",
+            "certificate_hash": "341173016178f0bb799a57f845d7a9b1b2a9337a"
+          }
+        },
+        {
+          "client_id": "960611632031-09vfve0uk48kngnhondaeto89j2eli8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNBP-VtkAFygLry4deKy14FSTKE3ct73A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960611632031-09vfve0uk48kngnhondaeto89j2eli8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
